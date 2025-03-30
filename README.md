@@ -2,7 +2,7 @@
 
 PumpFun Booster Bot is an automated trading bot designed to increase **volume, holders, and transactions** on decentralized exchanges. It strategically executes transactions to simulate organic activity, making token markets appear more active and attractive to traders and investors.  
 
-![Booster Bot Screenshot](images/bot.png)
+![Booster Bot Screenshot](\booster_bot/pumpfun_booster_bot.png)
 
 ## 🌟 Features  
 
